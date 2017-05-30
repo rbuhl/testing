@@ -8,5 +8,3 @@ echo a^2 + b^ = $((a*a + b*b))
 echo "(a+b)^2 = "$(((a+b)*(a+b)))
 
 
-#this comment will be reverted
-
